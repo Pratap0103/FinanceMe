@@ -20,7 +20,7 @@ import AdminLayout from "../components/layout/AdminLayout";
 
 // Configuration object
 const CONFIG = {
-  GOOGLE_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbzZOuu2S5TheMw4wmPPD4atlFXkbCjkm-trXDLA1KjJ5NCfcfOsks8Z9rkEH8dtFsKmQQ/exec',
+  GOOGLE_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbxu2kcsb-hF-1zMiljnjZNcFVH412khCK6-9WhXohkzXCzzApqh4zFPsoubInrSiOuy/exec',
   SHEET_NAME: 'Daily',
   PAGE_CONFIG: {
     title: "Finance Transactions",
